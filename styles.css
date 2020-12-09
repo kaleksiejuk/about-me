@@ -1,0 +1,13 @@
+Html {
+    Background-color: #007FFF;
+}
+
+h1 {
+    font-family: 'Turret Road', cursive;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_1280.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
